@@ -2,16 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 while True:
     num1 = float(input('Enter 1st num:'))
     num2 = float(input('Enter 2nd num:'))
